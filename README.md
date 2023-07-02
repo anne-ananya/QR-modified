@@ -1,12 +1,12 @@
 # QR App
 
-This is the **Frontend Source Code** for [**QR App**](https://qr-app-peach.vercel.app/).
+This is the **Frontend Source Code** for [**QR App**](https://qr-service-2tmg.onrender.com/).
 
 ---
 
 # Discreption
 
-QR App is an app for Creating and Scanning QR Code in The Fastest Way and Completely Free.
+QR App is an app for Creating and Scanning QR Code.
 
 ---
 
@@ -15,7 +15,7 @@ QR App is an app for Creating and Scanning QR Code in The Fastest Way and Comple
 - Reponsive
 - Nice Design with Tailwind Framework
 - Speed & Good Performance with Tailwind Framework
-- Nice Animations
+- Can generate valid QRs
 
 ---
 
