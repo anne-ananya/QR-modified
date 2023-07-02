@@ -34,7 +34,7 @@ function Home() {
             <div className="flex flex-col items-center justify-between lg:-mt-36 xl:flex-row">
               <div className="w-full max-w-xl mb-12 text-center lg:text-start xl:mb-0 xl:pr-16 xl:w-7/12">
                 <h1 className="max-w-lg mb-6 font-sans text-5xl font-extrabold tracking-tight text-white sm:text-7xl sm:leading-none">
-                  {"QR Scaner & Creator"}
+                  {"QR Scanner & Creator"}
                 </h1>
                 
                 <Typed
